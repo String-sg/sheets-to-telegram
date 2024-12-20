@@ -16,9 +16,9 @@ Instead of relying on teacher mediation on every manual data query,
 Important note: There is no profound auth mechanism to ensure data security
 
 ### Next steps
-[] Register student_id on /start for access token
-[] In-line Telegram button/ keyboard for common operations, including BMI calculation (else compute it as a row on gsheets)
-[] For more sensitive information: **Key Steps for Encryption**
+[] Register student_id on /start for access token <br>
+[] In-line Telegram button/ keyboard for common operations, including BMI calculation (else compute it as a row on gsheets) <br>
+[] For more sensitive information: **Key Steps for Encryption** <br>
 - Add Encryption Functions
 - Use a library like CryptoJS for encryption and decryption.
 - Store a secure SECRET_KEY.
